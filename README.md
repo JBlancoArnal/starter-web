@@ -4,8 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
 
-This is example is to show different parts of the Git repository and various commands using a web project. 
-mroe changes from myfeature branch too
+This is example is to show different parts of the Git repository and various commands 
 
 ## Purpose
 
